@@ -9,11 +9,11 @@ public class Employee {
  public void getInput() {
  
   Scanner in = new Scanner(System.in);
-  System.out.print("Enter the empid :: ");
+  System.out.println("Enter the empid :: ");
   empid = in.nextInt();
-  System.out.print("Enter the name :: ");
+  System.out.println("Enter the name :: ");
   name = in.next();
-  System.out.print("Enter the salary :: ");
+  System.out.println("Enter the salary :: ");
   salary = in.nextFloat();
  }
  
