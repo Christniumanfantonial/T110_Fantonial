@@ -1,4 +1,4 @@
-package ma2FinalTask_Part_2;
+package Ma2FinalTask_Part_2;
 
 import java.util.Scanner;
 
